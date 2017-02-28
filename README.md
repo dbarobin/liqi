@@ -228,7 +228,6 @@
 * [一起惠一键购物助手](https://chrome.google.com/webstore/detail/%E4%B8%80%E8%B5%B7%E6%83%A0%E4%B8%80%E9%94%AE%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/jjcbbdnfiapchhkemifphepfgilhdokf)，比价神器
 * [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb)，又一比价神器，网易出品
 * [為什麼你們就是不能加個空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)，自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白，强迫症专用
-* [Chrono Download Manager](https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn)，替代 Chrome 原声的下载
 * [One Window](https://chrome.google.com/webstore/detail/one-window/papnlnnbddhckngcblfljaelgceffobn)，强制把所有的标签页都放在一个窗口中显示
 * [Anything to QRcode](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf)，网页内容生成为图片，分享给好友
 * [TabCopy](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)，一键获得当前页面的链接，还可以设定一块儿获得当前页面的标签名，甚至还可以一次性获得所有标签的链接和标签名，更甚至可以直接获得源代码等
