@@ -210,6 +210,9 @@
 
 * [1Password](https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk)，密码管理神器
 * [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)，过滤烦人的广告
+* [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)，过滤烦人的广告，功能同 AdBlock
+* [Anything to QRcode](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf)，网页内容生成为图片，分享给好友
+* [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp)，自动加载网页下一页
 * [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)，Chrome 收取 Gmail
 * [Enable Copy](https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio)，启用复制功能，特别针对不能复制的网页
 * [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)，印象笔记剪藏
@@ -218,26 +221,24 @@
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)，不用点开图片就能放大
 * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)，又一个好用的密码管理神器
 * [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)，文本框支持 Markdown 语法
+* [One Window](https://chrome.google.com/webstore/detail/one-window/papnlnnbddhckngcblfljaelgceffobn)，强制把所有的标签页都放在一个窗口中显示
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)，调试神器
 * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，翻墙必备
 * [Scroll To Top Button](https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj)，置顶滚动
+* [Simple Blocker](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)，阻止访问特定网页
 * [SimpleUndoClose](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj)，记录关闭的标签页，支持搜索
 * [Smartshot](https://chrome.google.com/webstore/detail/smartshot-screen-capture/edjbamdongkhmagbpppagfjbcojajeae)，智能网页截图
+* [Super Auto Refresh](https://chrome.google.com/webstore/detail/super-auto-refresh/kkhjakkgopekjlempoplnjclgedabddk)，设置网页自动刷新
+* [Tamper Chrome (extension)](https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb)，修改网页请求和响应
+* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)，世界上最受欢迎的用户脚本管理器
 * [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)，挂起特定时间未使用的网页
+* [Video DownloadHelper](https://chrome.google.com/webstore/search/Video%20DownloadHelper)，自动发现网页视频并提供下载
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)，查看网站使用技术框架
+* [word highlight](https://chrome.google.com/webstore/detail/word-highlight/ooabkmkhabkahcjbgpiajffckeibpdoa)，保持搜索关键词高亮
+* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)，显示网页使用的字体
 * [一起惠一键购物助手](https://chrome.google.com/webstore/detail/%E4%B8%80%E8%B5%B7%E6%83%A0%E4%B8%80%E9%94%AE%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/jjcbbdnfiapchhkemifphepfgilhdokf)，比价神器
 * [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb)，又一比价神器，网易出品
 * [為什麼你們就是不能加個空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)，自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白，强迫症专用
-* [One Window](https://chrome.google.com/webstore/detail/one-window/papnlnnbddhckngcblfljaelgceffobn)，强制把所有的标签页都放在一个窗口中显示
-* [Anything to QRcode](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf)，网页内容生成为图片，分享给好友
-* [TabCopy](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)，一键获得当前页面的链接，还可以设定一块儿获得当前页面的标签名，甚至还可以一次性获得所有标签的链接和标签名，更甚至可以直接获得源代码等
-* [ToggleLink: Select Text From Link](https://chrome.google.com/webstore/detail/togglelink-select-text-fr/pihmbjnaeenimjokcejnenhppigofjdi)，按 Shift，超链接就变成文本
-* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)，世界上最受欢迎的用户脚本管理器
-* [One Click Extension Manager - No Ads](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)，快速开关插件
-* [Context Menus](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem)，选中文字在右键里快速指定搜索
-* [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp)，自动加载网页下一页
-* [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)，在线下载视频
-* [word highlight](https://chrome.google.com/webstore/detail/word-highlight/ooabkmkhabkahcjbgpiajffckeibpdoa)，保持搜索关键词高亮
 
 ## 生活服务
 
