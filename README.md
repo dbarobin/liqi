@@ -225,7 +225,6 @@
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)，调试神器
 * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，翻墙必备
 * [Scroll To Top Button](https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj)，置顶滚动
-* [Simple Blocker](https://chrome.google.com/webstore/detail/simple-blocker/akfbkbiialncppkngofjpglbbobjoeoe)，阻止访问特定网页
 * [SimpleUndoClose](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj)，记录关闭的标签页，支持搜索
 * [Smartshot](https://chrome.google.com/webstore/detail/smartshot-screen-capture/edjbamdongkhmagbpppagfjbcojajeae)，智能网页截图
 * [Super Auto Refresh](https://chrome.google.com/webstore/detail/super-auto-refresh/kkhjakkgopekjlempoplnjclgedabddk)，设置网页自动刷新
@@ -253,6 +252,7 @@
 * [MUJI 轻便电脑手提包](http://www.muji.com.cn/cn/store/category/fashion/bag)，纯黑色，轻便到极致，刚好可以放下我的 13.3 寸 rMBP
 * [Incase ICON 13.3 寸 rMBP 内胆包](https://item.jd.com/10477499836.html)，买东西喜欢一步到位，不想再去花冤枉钱。这块黑色的内胆包再加上 MUJI 手提包，很般配，瑞士军刀背包留着备用
 * [哈他 TPE 瑜伽垫](https://item.jd.com/1891589.html)，TPE 材质的瑜伽垫，防滑，柔软，非常舒服，没有刺激味道，女朋友练瑜伽用，平时健身也有用到
+* [中国移动任我用套餐](http://www.10086.cn/517/index/gd)，¥238/月，每个月 10G 流量，一年内每个月赠送 5G 流量
 
 ## 写在最后
 
