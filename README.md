@@ -29,6 +29,10 @@
 * [WD My Passport Ultra 移动硬盘](https://item.jd.com/1226253.html)，云盘不保，买一个 2T 的备用，后面打算做家庭 NAS
 * [BULL GN-U303U 迷你 USB 插座](https://item.jd.com/2601926.html)，再也不用担心没有带充电器，后面还买了一个扁平的型号，4 个 USB 接口，一个三线插座
 * [HiWiFi HC5861 智能无线路由器](https://item.jd.com/1386706.html)，上一个路由器是极贰，这款极叁还算满意，这个价位，只能暂时将就了
+* [象印 1900ml 不锈钢真空保温瓶 SH-HA19C-XA](http://item.jd.com/1213366.html)，不用反复烧水
+* [莫哥斯 iPhone 7 自拍杆](http://item.jd.com/10078336529.html)，女朋友特别喜欢，果真自拍神器
+* [绿联（UGREEN）USB3.0 有线千兆网卡 USB 转 RJ45 网线接口](https://item.jd.com/1215055.html)，解决 Mac 没有有线网卡的痛
+* [绿联（UGREEN）Mini DP 转 VGA 转换器](http://item.jd.com/1177817.html)，Mac 接投影仪专用
 
 ## 软件篇
 
@@ -260,6 +264,14 @@
 * [MUJI 轻便电脑手提包](http://www.muji.com.cn/cn/store/category/fashion/bag)，纯黑色，轻便到极致，刚好可以放下我的 13.3 寸 rMBP
 * [Incase ICON 13.3 寸 rMBP 内胆包](https://item.jd.com/10477499836.html)，买东西喜欢一步到位，不想再去花冤枉钱。这块黑色的内胆包再加上 MUJI 手提包，很般配，瑞士军刀背包留着备用
 * [哈他 TPE 瑜伽垫](https://item.jd.com/1891589.html)，TPE 材质的瑜伽垫，防滑，柔软，非常舒服，没有刺激味道，女朋友练瑜伽用，平时健身也有用到
+* [家逸四脚实木换鞋凳](http://item.jd.com/2323983.html)，有了这货之后，换鞋也变得优雅了
+* [零听 3D 慢回弹睡眠遮光眼罩](http://item.jd.com/1365803.html)，午休专用
+* [德尔玛（Deerma）DEM-Z3 折叠干衣机](http://item.jd.com/3382229.html)，为广州的回南天而生
+* [铁臂阿童木 U 型枕](http://item.jd.com/2737959.html)，旅游专用，胳膊再也不疼不酸
+* [滴露 Dettol 免洗抑菌洗手液](http://item.jd.com/226976.html)，外出专用
+* [美好家电脑桌](http://item.jd.com/437543.html)，下雨天躺在床上看电影利器
+* [路卡酷水果叉子七件套](https://item.jd.com/4201136.html)，吃水果专用
+* [宝优妮厕所防水垫](https://item.jd.com/10494312919.html)，洗澡再也不用担心地板滑了
 * [中国移动任我用套餐](http://www.10086.cn/517/index/gd)，¥238/月，每个月 10G 流量，一年内每个月赠送 5G 流量
 
 ## 写在最后
