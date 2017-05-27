@@ -68,6 +68,7 @@
 * [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html)，免费，好用的解压缩软件
 * [XtraFinder](https://www.trankynam.com/xtrafinder)，免费，Finder 增强工具
 * [Seil](https://github.com/tekezo/Seil)，免费，用于把右 Command 和 Caps Lock 键利用起来，减少快捷键冲突
+* [Magnet](http://magnet.crowdcafe.com)，窗口管理工具
 
 #### 效率
 
@@ -124,6 +125,7 @@
 * [MongoHub](https://github.com/jeromelebel/MongoHub-Mac)，免费，MongoDB 数据库管理工具
 * [Gitify](https://github.com/manosim/gitify)，免费，Github Notification 通知
 * [SourceTree](https://www.sourcetreeapp.com)，免费，git 辅助软件
+* [Star Order](https://itunes.apple.com/ca/app/star-order-best-github-star-management-tool/id1182745159)，¥12，Star Order 是一款为所有开源爱好者而打造的 Github Star 管理工具
 
 #### 图像
 
@@ -161,6 +163,7 @@
 * Calendars 5，¥45，限免获得，日历软件
 * MathStudio，¥30，限免获得，数学公式处理软件
 * White Noise+, ¥18，内购限免，强大的 DIY 白噪音软件，可以作为音乐教学的沉浸引导
+* Mail Me Pro，¥18，给自己发邮件，新式时间管理方法
 
 #### 音视频
 
@@ -179,12 +182,15 @@
 * Barry，¥12，网页截图，挺好用的
 * FreeUpSpace，¥30，限免获得，图片空间压缩软件
 * 每日名画，¥6，限免获得，名画欣赏
+* Pocket Scanner Ultimate，¥1，文档扫描
 
 #### 写作
 
 * Day One for iOS，¥30，Day One iOS 版，日记专用，颜值高
 * Day One 2 for iOS，¥30，又是坑爹的升级
 * TextExpander，¥30，提升输入效率
+* Reeder 3，¥30，RSS 阅读利器，买了 Mac 版还不够
+* Good Notes，¥6，笔记梳理
 
 #### 生活
 
@@ -192,6 +198,7 @@
 * 非常准 Pro，¥1，航班行程管理
 * 名片全能王 Pro，¥1，名片管理神器
 * Air Matters Premium，¥6/年，空气质量查看
+* Period Tracker Deluxe，¥18，经期管理软件，不要误会，不是我用
 
 #### 社交
 
@@ -200,6 +207,7 @@
 #### 教育
 
 * 奇迹背单词，¥16，优秀的单词辅助记忆软件
+* 培根词汇，¥28，英语词源词根词典
 
 #### 游戏
 
