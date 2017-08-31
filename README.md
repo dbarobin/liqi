@@ -13,7 +13,8 @@
 * [iPhone 5s](http://www.apple.com/cn/iphone)，2014 年光棍节给自己买的生日礼物，64G 银色顶配，现在依然是主力机
 * [iPhone 7](http://www.apple.com/iphone-7)，256G 银色 4.7 寸顶配，用了一个星期，给亲人用了
 * [rMBP](http://www.apple.com/cn/macbook-pro/)，2015 年初的 Retina MackBook Pro，13.3 寸银色中配，用了 Mac 才知道 PC 有多难用
-* [Magic Mouse 1](http://www.apple.com/cn/shop/product/MLA02CH/A/magic-mouse-2)，苹果鼠标，买了用了半年就出 2 了，1 代还要用电池，坑爹
+* [Apple Magic Mouse 1](http://www.apple.com/cn/shop/product/MLA02CH/A/magic-mouse-2)，苹果鼠标，买了用了半年就出 2 了，1 代还要用电池，坑爹
+* [Apple Magic Mouse 2](https://item.jd.com/2187061.html)，第二代可以充电，终于解决了一代鼠标需要经常换电池的大难题
 * [Bose SoundTouch 30 III](http://item.jd.com/3599670.html)，Bose 出品的蓝牙音箱，花了血本，不过真他妈好用
 * [Kindle Paperwhite 2](https://www.amazon.cn/gp/product/B00CWPIDHI)，Paperwhite 第二代，性价比高，看电子书利器，再加个官方真皮保护套，手感好到爆
 * [Rain Design mStand](https://www.amazon.cn/gp/product/B00KPCV84A)，rMBP 支架，和 rMBP 绝配，拯救肩颈利器
@@ -23,8 +24,12 @@
 * [Philips HD9316 电水壶](https://item.jd.com/729213.html)，煲水、保温一体化，颜值高，食品级不锈钢
 * [Philips GC2046 蒸汽电熨斗](https://item.jd.com/1184328.html)，解救衬衣党
 * [Philips HP8230 电吹风机](https://item.jd.com/928128.html)，吹风机够大，风也够大
+* [Philips HD9333/21 电水壶](https://item.jd.com/1421970.html)，厚重的电水壶
+* [Philips HD9313/21 电水壶](https://item.jd.com/1284087.html)，电水壶需要备用
 * [UP AP-4S 手机支架](https://item.jd.com/2456954.html)，把手机立起来，酷酷的
 * [Kingston DT SE9H 8GB U 盘](https://item.jd.com/690347.html)，用了近 3 年的 U 盘，小巧，实用，颜值高
+* [Kingston DT100G3 64GB USB3.0 U盘](https://item.jd.com/854802.html)，挺商务范，容量够大
+* [Kingston DTSE9G2 16GB USB3.0 U盘](https://item.jd.com/1337254.html)，装系统专用 U 盘
 * [WD Elements 移动硬盘](https://item.jd.com/896813.html)，用了差不多 4 年的移动硬盘，没有坏过，之前还有一个西部数据 My Passport
 * [WD My Passport Ultra 移动硬盘](https://item.jd.com/1226253.html)，云盘不保，买一个 2T 的备用，后面打算做家庭 NAS
 * [BULL GN-U303U 迷你 USB 插座](https://item.jd.com/2601926.html)，再也不用担心没有带充电器，后面还买了一个扁平的型号，4 个 USB 接口，一个三线插座
@@ -33,6 +38,8 @@
 * [莫哥斯 iPhone 7 自拍杆](http://item.jd.com/10078336529.html)，女朋友特别喜欢，果真自拍神器
 * [绿联（UGREEN）USB3.0 有线千兆网卡 USB 转 RJ45 网线接口](https://item.jd.com/1215055.html)，解决 Mac 没有有线网卡的痛
 * [绿联（UGREEN）Mini DP 转 VGA 转换器](http://item.jd.com/1177817.html)，Mac 接投影仪专用
+* [加能苹果充电线](https://item.jd.com/10380811703.html)，苹果 MFI 认证，接近原装
+* [中国地图挂图+世界地图挂图](https://item.jd.com/11663917.html)，挂在客厅有一种天下尽在眼前的错觉
 
 ## 软件篇
 
@@ -273,6 +280,27 @@
 * [路卡酷水果叉子七件套](https://item.jd.com/4201136.html)，吃水果专用
 * [宝优妮厕所防水垫](https://item.jd.com/10494312919.html)，洗澡再也不用担心地板滑了
 * [中国移动任我用套餐](http://www.10086.cn/517/index/gd)，¥238/月，每个月 10G 流量，一年内每个月赠送 5G 流量
+* [Member's Mark 保鲜膜](https://item.jd.com/10691995307.html)，这款保鲜膜特别好用，五星推荐
+* [宜洁一次性手套盒装卫生食品手套](https://item.jd.com/1292198.html)，啃鸡翅、做白切鸡特别适合
+* [ARS 安速日本进口小强恢恢蟑螂屋](https://item.jd.com/927679.html)，优雅地消灭小强
+* [洁柔（C&S）卷纸](https://item.jd.com/3571477.html)，这款卷纸非常好用
+* [博士伦隐形眼镜润明除蛋白护理液](https://item.jd.com/3144842.html)，女朋友用了很多年的隐形眼镜护理液
+* [蓝月亮强力型厨房油污净](https://item.jd.com/1029053.html)，厨房油污杀手
+* [蓝月亮蓝色月光白色衣物色渍净](https://item.jd.com/1038214.html)，白色衣服非常适用
+* [蓝月亮深层洁净护理洗衣液（薰衣草）](https://item.jd.com/1032871.html)，这个味道的洗衣液用了无数次了
+* [蓝月亮野菊花洗手液](https://item.jd.com/1038234.html)，需要养成经常洗手的习惯
+* [卫诺香氛洁厕液（清怡罗兰）](https://item.jd.com/996359.html)，同样是蓝月亮出品
+* [威猛先生【香港版】洁厕液](https://item.jd.com/4230274.html)，港货就是不一样，谁用谁知道
+* [滴露衣物除菌液](https://item.jd.com/10166416935.html)，消毒液、除菌液只信赖滴露
+* [斧头牌（AXE）柠檬护肤洗洁精](https://item.jd.com/3777618.html)，这款洗洁精挺好用，柠檬味挺喜欢
+* [好事达雅曼梳妆桌椅](https://item.jd.com/1212888.html)，这款梳妆桌椅女朋友非常喜欢，每天化妆卸妆必备利器
+* [好事达穿衣镜](https://item.jd.com/1773753.html)，女朋友每天穿衣必备利器
+* [瑞仕达 Restar 折叠床](https://item.jd.com/4139375.html)，办公午休专用床
+* [家逸实木落地衣帽架](https://item.jd.com/3544350.html)，回到家把外衣脱掉挂到衣帽架那一刹那很放松
+* [得力（deli）7093 强粘性 PVP 固体胶棒](https://item.jd.com/569198.html)，这款得力的固体胶粘性一级棒
+* [欧乐B（OralB）舒适深洁牙线](https://item.jd.com/4140148.html)，护理口腔卫生利器
+* [老恒和陈年原酿葱姜料酒](https://item.jd.com/1302758.html)，这款料酒特别香
+* [李锦记味极鲜特级酿造酱油](https://item.jd.com/1078103.html)，这款酱油用了好几年了
 
 ## 写在最后
 
