@@ -40,6 +40,7 @@
 * [绿联（UGREEN）Mini DP 转 VGA 转换器](http://item.jd.com/1177817.html)，Mac 接投影仪专用
 * [加能苹果充电线](https://item.jd.com/10380811703.html)，苹果 MFI 认证，接近原装
 * [中国地图挂图+世界地图挂图](https://item.jd.com/11663917.html)，挂在客厅有一种天下尽在眼前的错觉
+* [酷狗（KUGOU）潘多拉互联网蓝牙音箱](https://item.jd.com/3549195.html)，入门级蓝牙音箱，只能说对得起这价位
 
 ## 软件篇
 
@@ -303,11 +304,16 @@
 * [好事达雅曼梳妆桌椅](https://item.jd.com/1212888.html)，这款梳妆桌椅女朋友非常喜欢，每天化妆卸妆必备利器
 * [好事达穿衣镜](https://item.jd.com/1773753.html)，女朋友每天穿衣必备利器
 * [瑞仕达 Restar 折叠床](https://item.jd.com/4139375.html)，办公午休专用床
+* [牛当家男士腰带](http://item.jd.com/4501932.html)，女朋友送的礼物，好喜欢
+* [S.L 男士钱包](http://item.jd.com/1748186645.html)，同样是女朋友送的礼物，最喜欢的是可以放手机
 * [家逸实木落地衣帽架](https://item.jd.com/3544350.html)，回到家把外衣脱掉挂到衣帽架那一刹那很放松
 * [得力（deli）7093 强粘性 PVP 固体胶棒](https://item.jd.com/569198.html)，这款得力的固体胶粘性一级棒
 * [欧乐B（OralB）舒适深洁牙线](https://item.jd.com/4140148.html)，护理口腔卫生利器
 * [老恒和陈年原酿葱姜料酒](https://item.jd.com/1302758.html)，这款料酒特别香
 * [李锦记味极鲜特级酿造酱油](https://item.jd.com/1078103.html)，这款酱油用了好几年了
+* [鲁花 5S 压榨一级花生油](https://item.jd.com/862559.html)，老牌花生油，一直用这款
+* [鲁花玉米油](https://item.jd.com/1354439.html)，和花生油轮流使用
+* [鲁花菜籽油](https://item.jd.com/862562.html)，和花生油、玉米油轮流使用，味道更佳
 
 ## 写在最后
 
