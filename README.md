@@ -79,7 +79,8 @@
 * [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html)，免费，好用的解压缩软件
 * [XtraFinder](https://www.trankynam.com/xtrafinder)，免费，Finder 增强工具
 * [Seil](https://github.com/tekezo/Seil)，免费，用于把右 Command 和 Caps Lock 键利用起来，减少快捷键冲突
-* [Magnet](http://magnet.crowdcafe.com)，窗口管理工具
+* [Magnet](http://magnet.crowdcafe.com)，¥6，窗口管理工具
+* [Keka](http://www.kekaosx.com/en)，¥12，用了这款压缩解压工具之后，其余的类似工具都卸载了
 
 #### 效率
 
@@ -100,6 +101,8 @@
 * [Marp](https://github.com/yhatt/marp)，免费，写 Markdown 的方式演示 PPT
 * [Near Lock](http://nearlock.me)，免费，根据距离用手机解锁 Mac，配合 MacID 使用
 * [RescueTime](https://www.rescuetime.com)，时间管理，统计时间消耗工具
+* [SelfControl](https://selfcontrolapp.com)，能够阻止你上特定网站的工具
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)，色盲检测工具
 
 #### 写作
 
@@ -137,6 +140,7 @@
 * [Gitify](https://github.com/manosim/gitify)，免费，Github Notification 通知
 * [SourceTree](https://www.sourcetreeapp.com)，免费，git 辅助软件
 * [Star Order](https://itunes.apple.com/ca/app/star-order-best-github-star-management-tool/id1182745159)，¥12，Star Order 是一款为所有开源爱好者而打造的 Github Star 管理工具
+* [fu](https://github.com/klesh/fu)，开源图床工具
 
 #### 图像
 
@@ -175,6 +179,9 @@
 * MathStudio，¥30，限免获得，数学公式处理软件
 * White Noise+, ¥18，内购限免，强大的 DIY 白噪音软件，可以作为音乐教学的沉浸引导
 * Mail Me Pro，¥18，给自己发邮件，新式时间管理方法
+* 时间块，¥12，时间效率软件
+* 刷卡助手，¥3，信用卡和储蓄卡管理工具，这仿真的交互很是喜欢
+* Overthere，¥12，房间杂物收纳
 
 #### 音视频
 
