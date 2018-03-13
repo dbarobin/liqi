@@ -41,6 +41,7 @@
 * [加能苹果充电线](https://item.jd.com/10380811703.html)，苹果 MFI 认证，接近原装
 * [中国地图挂图+世界地图挂图](https://item.jd.com/11663917.html)，挂在客厅有一种天下尽在眼前的错觉
 * [酷狗（KUGOU）潘多拉互联网蓝牙音箱](https://item.jd.com/3549195.html)，入门级蓝牙音箱，只能说对得起这价位
+* [南孚(NANFU) LR6AA 聚能环 5 号电池](https://item.jd.com/4025874.html)，老牌子，盒装更尽兴
 
 ## 软件篇
 
@@ -316,6 +317,16 @@
 * [鲁花 5S 压榨一级花生油](https://item.jd.com/862559.html)，老牌花生油，一直用这款
 * [鲁花玉米油](https://item.jd.com/1354439.html)，和花生油轮流使用
 * [鲁花菜籽油](https://item.jd.com/862562.html)，和花生油、玉米油轮流使用，味道更佳
+* [三利纯棉薄款纱布毛巾](https://item.jd.com/2505404.html)，喜欢薄薄的面巾
+* [金印日本原装进口芥末](https://item.jd.com/10704923716.html)，喜欢吃芥末的，这款还是值得入手
+* [晟旎尚品晾衣架](https://item.jd.com/2520062.html)，凹槽设计特别赞，衣物不用担心掉
+* [阳帆阳江豆豉](https://item.jd.com/10691477309.html)，阳江特产，非常赞
+* [得力办公会议可擦易擦白板笔](https://item.jd.com/1558553.html)，开会专用
+* [乌江涪陵清淡榨菜](https://item.jd.com/4785954.html)，小袋装，比较适用
+* [美洁卫净白漂白剂](https://item.jd.com/4324970.html)，漂白效果一流
+* [东湖五年陈酿老陈醋](https://item.jd.com/847304.html)，山西东湖出品
+* [狮王（Lion）细齿洁弹力护龈牙刷](https://item.jd.com/581199.html)，他家的牙刷用得舒服
+* [茶花粘钩挂钩贴平面五金强力型](https://item.jd.com/865209.html)，附着力较强
 
 ## 写在最后
 
