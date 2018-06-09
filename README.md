@@ -12,6 +12,12 @@
 
 * [iPhone 5s](http://www.apple.com/cn/iphone)，2014 年光棍节给自己买的生日礼物，64G 银色顶配，现在依然是主力机
 * [iPhone 7](http://www.apple.com/iphone-7)，256G 银色 4.7 寸顶配，用了一个星期，给亲人用了
+* [iPhone SE 128GB 玫瑰金色](https://www.apple.com/cn/iphone-se)，这颜色女朋友很喜欢
+* [iPhone SE 128GB 银色](https://www.apple.com/cn/iphone-se)，找回 5s 的感觉
+* [iPhone SE 皮革保护壳 - 午夜蓝色](https://www.apple.com/cn/shop/product/MMHG2FE/A)，官方的配件就是贵
+* [iPhone 5/5s/SE 用 Power Support Air Jacket](https://www.apple.com/cn/shop/product/HB698ZM/A)，这款套子手感不错
+* [iPhone X 256GB 深空灰色](https://www.apple.com/cn/iphone-x)，主力机，依然是目前最好的手机
+* [iPhone X 硅胶保护壳 - 黑色](https://www.apple.com/cn/shop/product/MR522FE/A)，手感比较好，但带上之后比较重
 * [rMBP](http://www.apple.com/cn/macbook-pro/)，2015 年初的 Retina MackBook Pro，13.3 寸银色中配，用了 Mac 才知道 PC 有多难用
 * [Apple Magic Mouse 1](http://www.apple.com/cn/shop/product/MLA02CH/A/magic-mouse-2)，苹果鼠标，买了用了半年就出 2 了，1 代还要用电池，坑爹
 * [Apple Magic Mouse 2](https://item.jd.com/2187061.html)，第二代可以充电，终于解决了一代鼠标需要经常换电池的大难题
