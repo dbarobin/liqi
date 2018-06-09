@@ -76,8 +76,8 @@
 * 翻墙服务保留，若想得知，请发邮件交流
 * [印象笔记](https://www.yinxiang.com)，¥148/年，高级帐户，知识库
 * [Dropbox Plus](https://www.dropbox.com/plus)，$99/年，重要资料云同步
-* [1Password](https://1password.com)，$35.88/Y，当你拒绝的时候，就缺失学习和接受它的机会
-* [GitHub Developer](https://github.com/pricing)，$7/M，创建私有 repo，代码和文档知识库
+* [1Password](https://1password.com)，$35.88/年，当你拒绝的时候，就缺失学习和接受它的机会
+* [GitHub Developer](https://github.com/pricing)，$7/月，创建私有 repo，代码和文档知识库
 
 ### macOS
 
