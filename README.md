@@ -25,6 +25,9 @@
 * [Apple AirPods 蓝牙无线耳机](https://item.jd.com/3563660.html)，这款耳机必须赞一个
 * [Apple 60W MagSafe 2 电源适配器](https://item.jd.com/778365.html)，备用电源，放公司
 * [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
+* [TREZOR](https://trezor.io)，¥898.72，硬件钱包，外观略简陋
+* [KeepKey](https://www.keepkey.com)，¥911.06，硬件钱包，屏幕够大
+* [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s)，¥708.92，硬件钱包，设计不错
 * [Bose SoundTouch 30 III](http://item.jd.com/3599670.html)，Bose 出品的蓝牙音箱，花了血本，不过真他妈好用
 * [Bose QuietComfort 35 无线耳机银色](https://item.jd.com/3599562.html)，唯一的缺点就是漏风
 * [Kindle Paperwhite 2](https://www.amazon.cn/gp/product/B00CWPIDHI)，Paperwhite 第二代，性价比高，看电子书利器，再加个官方真皮保护套，手感好到爆
