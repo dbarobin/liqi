@@ -38,7 +38,6 @@
 * [Philips HD9333/21 电水壶](https://item.jd.com/1421970.html)，厚重的电水壶
 * [Philips HD9313/21 电水壶](https://item.jd.com/1284087.html)，电水壶需要备用
 * [Philips NT1150/10 鼻毛修剪器](https://item.jd.com/1356221.html)，从此剪鼻毛的事情变得如此简单
-* [UP AP-4S 手机支架](https://item.jd.com/2456954.html)，把手机立起来，酷酷的
 * [Kingston DT SE9H 8GB U 盘](https://item.jd.com/690347.html)，用了近 3 年的 U 盘，小巧，实用，颜值高
 * [Kingston DT100G3 64GB USB3.0 U盘](https://item.jd.com/854802.html)，挺商务范，容量够大
 * [Kingston DTSE9G2 16GB USB3.0 U盘](https://item.jd.com/1337254.html)，装系统专用 U 盘
@@ -73,6 +72,7 @@
 * [美国网件（NETGEAR） R8500 AC5300M](https://item.jd.com/1956856.html)，秒杀极路由，电信 200M 跑满
 * [森海塞尔（Sennheiser）HD 206 专业录音监听](https://item.jd.com/5049089.html)，配合电钢使用
 * [公牛（BULL）经典插座 GN-403 8 位总控全长 5 米](https://item.jd.com/16883098745.htm)，信赖大品牌
+* [UP AP-4S 手机支架](https://item.jd.com/2456954.html)，把手机立起来，酷酷的
 * [倍思（Baseus）车载手机支架](https://item.jd.com/5816707.html)，开车利器
 * [九阳（Joyoung）豆浆机破壁免滤预约多功能家用 DJ13B-D86SG](https://item.jd.com/1629709.html)，给妈妈买的豆浆机
 * [IT-CEO 懒猫七色电脑扎线带](https://item.jd.com/1141455.html)，用过最好的理线器
