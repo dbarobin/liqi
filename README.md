@@ -75,6 +75,8 @@
 
 * 翻墙服务保留，若想得知，请发邮件交流
 * [印象笔记](https://www.yinxiang.com)，¥148/ 年，高级帐户，知识库
+* 1Password，$35.88/Y，当你拒绝的时候，就缺失学习和接受它的机会
+* GitHub Developer，$7/M，创建私有 repo，代码和文档知识库
 
 ### macOS
 
@@ -334,6 +336,12 @@
 * [优酷会员](http://www.youku.com)，¥169/年，广告好讨厌，买了会员终于解决了
 * [京东会员 Plus](http://plus.jd.com/index)，¥179/年，每个月 6 张免运费券，再加专属贵宾客服
 * [亚马逊 Prime 会员](https://www.amazon.cn/gp/prime)，¥388/年, 海淘省心
+* [腾讯视频会员](http://film.qq.com)，¥198/年，各种 VIP 电影
+* [爱奇艺会员](http://vip.iqiyi.com)，¥198/年，各种 VIP 电影
+* [中读](http://www.lifeweek.com.cn)，¥58/年，三联出品
+* [名刊会](http://plus.qikan.com)，¥128/年，杂志集合
+* [HBO with Amazon Prime Video Channels](https://help.hbogo.com/hc/en-us/articles/204872107-Watching-HBO-on-Amazon-Prime-Video-Channels)，$14.99/月，为了第一时间看西部世界而开通
+* [Spotify Premium](https://www.spotify.com/premium)，¥599/Y，享受极致音乐体验
 * [Ohrfrieden 降噪隔音耳塞](https://detail.tmall.com/item.htm?id=21031463516)，看书、睡觉可以用用，隔音效果很棒
 * [花王蒸汽眼罩](https://item.taobao.com/item.htm?id=10428440431)，熬夜之后敷下眼睛，效果不错
 * [道远亮眼睛 LED 落地灯](https://item.jd.com/2202225.html)，简约大气，光线很舒服
