@@ -83,7 +83,7 @@
 * Terminal 用 [iTerm2](https://www.iterm2.com) + [zsh](https://en.wikipedia.org/wiki/Z_shell) + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 的组合，主题是 [Solarized Light](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
 * 用 [nvm](https://github.com/creationix/nvm) 管理 Node.js 版本
 * 用 [rvm](https://rvm.io) 管理 Ruby 版本
-* [Sublime Text 3](https://www.sublimetext.com)，用了好几年了，轻量，好用，主题依然是 [Solarized Light](https://github.com/braver/Solarized)
+* [Sublime Text 3](https://www.sublimetext.com)，$70，用了好几年了，轻量，好用，主题依然是 [Solarized Light](https://github.com/braver/Solarized)
 * [CotEditor](https://coteditor.com)，免费，文本编辑器
 * [Visual Studio Code](https://code.visualstudio.com)，免费，微软官方提供，阅读源码比较便捷
 * [GitHub Pages](https://pages.github.com)，程序员记录必备，博客静态生成器使用 [Jekyll](https://jekyllrb.com)，个人博客地址：[https://dbarobin.com](https://dbarobin.com)
@@ -131,6 +131,9 @@
 * [RescueTime](https://www.rescuetime.com)，时间管理，统计时间消耗工具
 * [SelfControl](https://selfcontrolapp.com)，能够阻止你上特定网站的工具
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)，色盲检测工具
+* [iPic](https://toolinbox.net/iPic)，¥50，配合七牛云做图床
+* [Tweetbot 3 for Twitter](https://itunes.apple.com/us/app/tweetbot-3-for-twitter/id1384080005?mt=12)，¥68，最好用的 Twitter 客户端
+* [MindNode 5, Full App](https://mindnode.com)，¥258，简洁优雅的思维导图工具
 
 #### 写作
 
@@ -148,6 +151,9 @@
 * [Shelf](https://dn-weazm-work.qbox.me/shelf/mac/test/v1.0.5.zip)，免费，书架管理
 * [Skim](http://skim-app.sourceforge.net)，免费，PDF 阅读，比较简约
 * [Typora](http://www.typora.io)，免费，简洁好用高颜值的 Markdown 编辑器，还有 PC 版
+* [Byword](https://bywordapp.com)，¥73，吸引眼球的功能是支持 Dropbox
+* [Microsoft Office 365](https://www.office.com)，¥294/Y，Mac 付费版真心好用
+* [Day One Premium](http://dayoneapp.com/premium)，¥168/Y，一款软件能让我坚持付费坚持用这么多年，也是厉害
 
 #### 音视频
 
@@ -169,6 +175,9 @@
 * [SourceTree](https://www.sourcetreeapp.com)，免费，git 辅助软件
 * [Star Order](https://itunes.apple.com/ca/app/star-order-best-github-star-management-tool/id1182745159)，¥12，Star Order 是一款为所有开源爱好者而打造的 Github Star 管理工具
 * [fu](https://github.com/klesh/fu)，开源图床工具
+* [SQLPro for MySQL](https://www.mysqlui.com)，¥68，简洁优雅的 MySQL 客户端
+* [SSH Shell](https://codinn.com/products/ssh-shell)，¥98，强大简洁的 SSH 客户端
+* [SSH Copy](https://codinn.com/products/ssh-copy)，¥98，简单的文件上传下载工具
 
 #### 图像
 
@@ -176,6 +185,7 @@
 * [Pixelmator](http://www.pixelmator.com/mac)，¥98，修图神器
 * [Artpaper](https://itunes.apple.com/us/app/artpaper-art-paintings-as/id1028838684)，免费，壁纸切换工具，有逼格
 * [Irvue](https://itunes.apple.com/us/app/irvue-unsplash-wallpapers/id1039633667)，免费，桌面壁纸切换工具，Unsplash 出品
+* [Photolemur](https://photolemur.com)，¥50，强大的智能修图工具
 
 #### 其他
 
@@ -210,6 +220,18 @@
 * 时间块，¥12，时间效率软件
 * 刷卡助手，¥3，信用卡和储蓄卡管理工具，这仿真的交互很是喜欢
 * Overthere，¥12，房间杂物收纳
+* Pin，¥30，剪贴板利器
+* Cloud Speed，$6，一键测 VPS 速度
+* OmniFocus 2，¥388，最佳的 GTD 工具
+* Surge 3，软件当然要最新
+* iFiles 2，¥30，iOS 端的文件浏览器
+* PGP Everywhere，¥30，PGP 输入法
+* Dark Sky Weather，$3.99，脚踏实地，仰望星空
+* MindNode 5, Upgrade from MindNode 4，¥68，简洁优雅的思维导图工具
+* OmniOutliner，¥258，最好的列表工具，当然功能不止于此，和 Mac 结合需要使用 OmniPresence
+* Speedtest，¥6，网速测试，去除广告
+* Shadowrocket，$2.99，美区买的梯子
+* Potatso 2，$2.99，美区买的梯子
 
 #### 音视频
 
@@ -219,6 +241,7 @@
 * Real Music Instruments，¥25，乐器仿真模拟，包含钢琴、尤克里里、鼓、吉他
 * Studio Music Player，¥328，限免获得，牛叉的音乐播放器
 * Voice Notes Pro，¥6，限免获得，录音软件
+* Castro，¥58/Y，最好用的播客客户端
 
 #### 图像
 
@@ -229,6 +252,8 @@
 * FreeUpSpace，¥30，限免获得，图片空间压缩软件
 * 每日名画，¥6，限免获得，名画欣赏
 * Pocket Scanner Ultimate，¥1，文档扫描
+* Afterlight 2，$2.99，修图利器
+* LightX，$2.99，修图利器
 
 #### 写作
 
@@ -238,6 +263,8 @@
 * Reeder 3，¥30，RSS 阅读利器，买了 Mac 版还不够
 * Good Notes，¥6，笔记梳理
 * 落格输入法，¥1，尝试双拼
+* Bear Pro，¥103，优雅好用的 Markdown 编辑器，缺点是不支持 Dropbox 同步
+* Byword，¥40，Byword iOS 版
 
 #### 生活
 
@@ -260,6 +287,13 @@
 
 * Monument Valley，¥25，限免获得，美到极致
 * Mini Metro，¥30，活动优惠 ¥6 获得，不错的游戏
+* Florence，¥18，纪念碑谷原创设计师又一力作
+* Shadow Love，$2.99，影子戏
+
+#### 开发
+
+* SQLPro for MySQL Premium，¥3.99/Y，MySQL 客户端 iOS 版
+* Prompt 2，¥98，最好用的 iOS SSH 客户端
 
 ### Chrome 插件
 
