@@ -32,6 +32,9 @@
 * [Kingston DTSE9G2 16GB USB3.0 U盘](https://item.jd.com/1337254.html)，装系统专用 U 盘
 * [WD Elements 移动硬盘](https://item.jd.com/896813.html)，用了差不多 4 年的移动硬盘，没有坏过，之前还有一个西部数据 My Passport
 * [WD My Passport Ultra 移动硬盘](https://item.jd.com/1226253.html)，云盘不保，买一个 2T 的备用，后面打算做家庭 NAS
+* [西部数据（WD）My Passport 1TB 2.5 英寸 经典黑 移动硬盘 WDBYNN0010BBK](https://item.jd.com/3995560.html)，用作 Time Machine 备份
+* [西部数据（WD）My Passport 2TB 2.5 英寸 经典黑 移动硬盘 WDBYFT0020BBK](https://item.jd.com/3995554.html)，资料物理备份
+* [西部数据（WD） Elements 新元素系列 2.5 英寸 USB3.0 移动硬盘 1TB（WDBUZG0010BBK）](https://item.jd.com/896813.html)，资料物理备份
 * [BULL GN-U303U 迷你 USB 插座](https://item.jd.com/2601926.html)，再也不用担心没有带充电器，后面还买了一个扁平的型号，4 个 USB 接口，一个三线插座
 * [HiWiFi HC5861 智能无线路由器](https://item.jd.com/1386706.html)，上一个路由器是极贰，这款极叁还算满意，这个价位，只能暂时将就了
 * [象印 1900ml 不锈钢真空保温瓶 SH-HA19C-XA](http://item.jd.com/1213366.html)，不用反复烧水
@@ -42,6 +45,29 @@
 * [中国地图挂图+世界地图挂图](https://item.jd.com/11663917.html)，挂在客厅有一种天下尽在眼前的错觉
 * [酷狗（KUGOU）潘多拉互联网蓝牙音箱](https://item.jd.com/3549195.html)，入门级蓝牙音箱，只能说对得起这价位
 * [南孚(NANFU) LR6AA 聚能环 5 号电池](https://item.jd.com/4025874.html)，老牌子，盒装更尽兴
+* [小米（MI）体脂秤白色](https://item.jd.com/4482544.html)，平时需要经常关注体重
+* [美的（Midea）电磁炉 C21-WH2128](https://item.jd.com/5107667.html)，好看好用，配的汤锅质量不错
+* [虎牌 JBA-S10C 电饭煲](https://item.jd.com/342345.html)，日本产，好用，慢煮和快煮都很赞
+* [瑞士风博瑞客（BONECO）加湿器](https://item.jd.com/339259.html)，设计一流，体验一流，加湿效果一流
+* [镭豆 2+ Laser Egg 2+](https://item.jd.com/5775783.html)，空气质量检测仪
+* [小米（MI）路由器 PRO 2600M](https://item.jd.com/4502946.html)，备用路由器
+* [Apple 闪电转 3.5 毫米耳机插孔转换器](https://item.jd.com/3494453.html)，苹果果然是一家配件公司
+* [Apple AirPods 蓝牙无线耳机](https://item.jd.com/3563660.html)，这款耳机必须赞一个
+* [三星（SAMSUNG）存储卡 32GB  Class10](https://item.jd.com/4083889.html)，三星品牌信得过
+* [美的（Midea）电炖锅](https://item.jd.com/4632936.html)，炖汤利器
+* [Bose QuietComfort 35 无线耳机银色](https://item.jd.com/3599562.html)，唯一的缺点就是漏风
+* [松下（Panasonic）CR2032 进口纽扣电池](https://item.jd.com/887301.html)，吉他调音器必备
+* [美国网件（NETGEAR） R8500 AC5300M](https://item.jd.com/1956856.html)，秒杀极路由，电信 200M 跑满
+* [新科 (Shinco)OK-1 麦克风转接头 6.5 转 3.5](https://item.jd.com/1426291.html)，转接头
+* [绿联（UGREEN）麦克风转接头 6.5 转 3.5](https://item.jd.com/1591018.html)，又一品牌转接头
+* [森海塞尔（Sennheiser）HD 206 专业录音监听](https://item.jd.com/5049089.html)，配合电钢使用
+* [公牛（BULL）经典插座 GN-403 8 位总控全长 5 米](https://item.jd.com/16883098745.htm)，信赖大品牌
+* [Apple 60W MagSafe 2 电源适配器](https://item.jd.com/778365.html)，备用电源，放公司
+* [倍思（Baseus）车载手机支架](https://item.jd.com/5816707.html)，开车利器
+* [飞利浦（PHILIPS）鼻毛修剪器 全身水洗 NT1150/10](https://item.jd.com/1356221.html)，从此剪鼻毛的事情变得如此简单
+* [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
+* [九阳（Joyoung）豆浆机破壁免滤预约多功能家用 DJ13B-D86SG](https://item.jd.com/1629709.html)，给妈妈买的豆浆机
+* [IT-CEO 懒猫七色电脑扎线带](https://item.jd.com/1141455.html)，用过最好的理线器
 
 ## 软件篇
 
@@ -281,6 +307,9 @@
 * [MUJI 轻便电脑手提包](http://www.muji.com.cn/cn/store/category/fashion/bag)，纯黑色，轻便到极致，刚好可以放下我的 13.3 寸 rMBP
 * [Incase ICON 13.3 寸 rMBP 内胆包](https://item.jd.com/10477499836.html)，买东西喜欢一步到位，不想再去花冤枉钱。这块黑色的内胆包再加上 MUJI 手提包，很般配，瑞士军刀背包留着备用
 * [哈他 TPE 瑜伽垫](https://item.jd.com/1891589.html)，TPE 材质的瑜伽垫，防滑，柔软，非常舒服，没有刺激味道，女朋友练瑜伽用，平时健身也有用到
+* [哈他专业瑜伽弹力带](https://item.jd.com/2695127.html)，练瑜伽利器
+* [哈他按摩轴堇紫](https://item.jd.com/4310324.html)，练完瑜伽放松专用
+* [哈他专业瑜伽砖](https://item.jd.com/1271729.html)，练瑜伽利器
 * [家逸四脚实木换鞋凳](http://item.jd.com/2323983.html)，有了这货之后，换鞋也变得优雅了
 * [零听 3D 慢回弹睡眠遮光眼罩](http://item.jd.com/1365803.html)，午休专用
 * [德尔玛（Deerma）DEM-Z3 折叠干衣机](http://item.jd.com/3382229.html)，为广州的回南天而生
@@ -293,6 +322,8 @@
 * [Member's Mark 保鲜膜](https://item.jd.com/10691995307.html)，这款保鲜膜特别好用，五星推荐
 * [宜洁一次性手套盒装卫生食品手套](https://item.jd.com/1292198.html)，啃鸡翅、做白切鸡特别适合
 * [ARS 安速日本进口小强恢恢蟑螂屋](https://item.jd.com/927679.html)，优雅地消灭小强
+* [ARS 安速 杀虫剂蟑螂药杀虫气雾剂 600ml / 支](https://item.jd.com/927652.html)，有时还需要气雾剂
+* [雅高喷水玻璃刮](https://item.jd.com/2256440.html)，擦玻璃专用
 * [洁柔（C&S）卷纸](https://item.jd.com/3571477.html)，这款卷纸非常好用
 * [博士伦隐形眼镜润明除蛋白护理液](https://item.jd.com/3144842.html)，女朋友用了很多年的隐形眼镜护理液
 * [蓝月亮强力型厨房油污净](https://item.jd.com/1029053.html)，厨房油污杀手
@@ -327,6 +358,36 @@
 * [东湖五年陈酿老陈醋](https://item.jd.com/847304.html)，山西东湖出品
 * [狮王（Lion）细齿洁弹力护龈牙刷](https://item.jd.com/581199.html)，他家的牙刷用得舒服
 * [茶花粘钩挂钩贴平面五金强力型](https://item.jd.com/865209.html)，附着力较强
+* [虎牌（Tiger）保温杯轻量型男女水杯 MMP-A30C-K 深灰色 300ML](https://item.jd.com/3594868.html)，买完之后发现广州并不适合，只能装常温水
+* [虎牌（Tiger）保温杯真空轻便男女水杯 MMZ-A50C-TV 棕色 500ml](https://item.jd.com/3594866.html)，备用杯
+* [乐扣乐扣带蒸汽孔玻璃保鲜盒 LLG214T 500ml](https://item.jd.com/4555912.html)，大品牌，挺好用
+* [乐扣乐扣玻璃保鲜盒 LLG205 300ml](https://item.jd.com/3929951.html)，小号备用
+* [乐扣乐扣带蒸汽孔玻璃保鲜盒 LLG831T 650ml](https://item.jd.com/3929959.html)，便当盒全家桶
+* [乐扣乐扣 (lock&lock) 米桶 12 升装](https://item.jd.com/2172006.html)，这款容器装米很好用
+* [绿珠 lvzhu 长柄可折叠洗杯刷瓶刷清洁刷子](https://item.jd.com/2847255.html)，去除玻璃瓶污渍
+* [包里名家（sac maitres）原创帆布单肩白色](https://item.jd.com/3209217.html)，买菜、购物专用
+* [包里名家（sac maitres）休闲单肩女包黑色](https://item.jd.com/4738397.html)，买菜、购物专用
+* [友加红薯淀粉](https://item.jd.com/919977.html)，淀粉还是四川产的好
+* [冷酸灵极地白泵式牙膏](https://item.jd.com/2391084.html)，喜欢这款牙膏的设计
+* [千禾白醋](https://item.jd.com/4634180.html)，味道很赞
+* [双一家用手套](https://item.jd.com/2132893.html)，质量和体验都还可以的手套
+* [日式黑胡桃简约名片盒](https://item.jd.com/14336026360.html)，优雅好看
+* [得力（deli）30402 棉纸双面胶带](https://item.jd.com/391818.html)，日常生活利器
+* [QDZX 纸箱](https://item.jd.com/12267421494.html)，搬家必备，各种尺寸
+* [日本丽固（LEC）粘贴式宽型工具挂钩](https://item.jd.com/1015016.html)，日常生活利器
+* [美丽雅钢丝球](https://item.jd.com/851921.html)，日常生活利器
+* [康美雅海绵百洁布量贩装](https://item.jd.com/3789274.html)，日常生活利器
+* [澳格菲海绵](https://item.jd.com/5479843.html)，日常生活利器
+* [康美雅干发帽](https://item.jd.com/3789276.html)，长发必备
+* [泰国进口口口（KOKO）泰国茉莉香米](https://item.jd.com/2375243.html)，味道确实不错
+* [妙洁保鲜袋大中小三合一组合超值装](https://item.jd.com/565663.html)，各种尺寸打包
+* [欧润哲情侣漱口杯](https://item.jd.com/1762322.html)，304 不锈钢
+* [泰国进口水妈妈水磨糯米粉](https://item.jd.com/3206208.html)，味道不错，不过太少了
+* [生龙佬米酒](https://item.jd.com/2313197.html)，味道还是不错的
+* [太古（taikoo） 优级白砂糖包 50 包 375g](https://item.jd.com/4839115.html)，小包装，很好处理
+* [孟乍隆苏吝府茉莉香米](https://item.jd.com/2375223.html)，吃完 KOKO 吃孟乍隆，泰国香米果然名不虚传
+* [挂绿南方籼米油粘米](https://item.jd.com/4730514.html)，这款米还是可以的
+* [珍视明真丝睡眠遮光眼罩](https://item.jd.com/3837200.html)，很软很薄，高铁必备
 
 ## 写在最后
 
