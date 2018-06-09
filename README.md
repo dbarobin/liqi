@@ -21,7 +21,12 @@
 * [rMBP](http://www.apple.com/cn/macbook-pro/)，2015 年初的 Retina MackBook Pro，13.3 寸银色中配，用了 Mac 才知道 PC 有多难用
 * [Apple Magic Mouse 1](http://www.apple.com/cn/shop/product/MLA02CH/A/magic-mouse-2)，苹果鼠标，买了用了半年就出 2 了，1 代还要用电池，坑爹
 * [Apple Magic Mouse 2](https://item.jd.com/2187061.html)，第二代可以充电，终于解决了一代鼠标需要经常换电池的大难题
+* [Apple 闪电转 3.5 毫米耳机插孔转换器](https://item.jd.com/3494453.html)，苹果果然是一家配件公司
+* [Apple AirPods 蓝牙无线耳机](https://item.jd.com/3563660.html)，这款耳机必须赞一个
+* [Apple 60W MagSafe 2 电源适配器](https://item.jd.com/778365.html)，备用电源，放公司
+* [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
 * [Bose SoundTouch 30 III](http://item.jd.com/3599670.html)，Bose 出品的蓝牙音箱，花了血本，不过真他妈好用
+* [Bose QuietComfort 35 无线耳机银色](https://item.jd.com/3599562.html)，唯一的缺点就是漏风
 * [Kindle Paperwhite 2](https://www.amazon.cn/gp/product/B00CWPIDHI)，Paperwhite 第二代，性价比高，看电子书利器，再加个官方真皮保护套，手感好到爆
 * [Rain Design mStand](https://www.amazon.cn/gp/product/B00KPCV84A)，rMBP 支架，和 rMBP 绝配，拯救肩颈利器
 * [Sony CP-R10 充电宝](https://item.jd.com/1860193.html)，10000 豪安刚刚好，关键是颜值高
@@ -32,6 +37,7 @@
 * [Philips HP8230 电吹风机](https://item.jd.com/928128.html)，吹风机够大，风也够大
 * [Philips HD9333/21 电水壶](https://item.jd.com/1421970.html)，厚重的电水壶
 * [Philips HD9313/21 电水壶](https://item.jd.com/1284087.html)，电水壶需要备用
+* [Philips NT1150/10 鼻毛修剪器](https://item.jd.com/1356221.html)，从此剪鼻毛的事情变得如此简单
 * [UP AP-4S 手机支架](https://item.jd.com/2456954.html)，把手机立起来，酷酷的
 * [Kingston DT SE9H 8GB U 盘](https://item.jd.com/690347.html)，用了近 3 年的 U 盘，小巧，实用，颜值高
 * [Kingston DT100G3 64GB USB3.0 U盘](https://item.jd.com/854802.html)，挺商务范，容量够大
@@ -47,31 +53,27 @@
 * [莫哥斯 iPhone 7 自拍杆](http://item.jd.com/10078336529.html)，女朋友特别喜欢，果真自拍神器
 * [绿联（UGREEN）USB3.0 有线千兆网卡 USB 转 RJ45 网线接口](https://item.jd.com/1215055.html)，解决 Mac 没有有线网卡的痛
 * [绿联（UGREEN）Mini DP 转 VGA 转换器](http://item.jd.com/1177817.html)，Mac 接投影仪专用
+* [绿联（UGREEN）麦克风转接头 6.5 转 3.5](https://item.jd.com/1591018.html)，又一品牌转接头
+* [新科 (Shinco)OK-1 麦克风转接头 6.5 转 3.5](https://item.jd.com/1426291.html)，转接头
 * [加能苹果充电线](https://item.jd.com/10380811703.html)，苹果 MFI 认证，接近原装
 * [中国地图挂图+世界地图挂图](https://item.jd.com/11663917.html)，挂在客厅有一种天下尽在眼前的错觉
 * [酷狗（KUGOU）潘多拉互联网蓝牙音箱](https://item.jd.com/3549195.html)，入门级蓝牙音箱，只能说对得起这价位
 * [南孚(NANFU) LR6AA 聚能环 5 号电池](https://item.jd.com/4025874.html)，老牌子，盒装更尽兴
 * [小米（MI）体脂秤白色](https://item.jd.com/4482544.html)，平时需要经常关注体重
+* [小米（MI）路由器 PRO 2600M](https://item.jd.com/4502946.html)，备用路由器
 * [美的（Midea）电磁炉 C21-WH2128](https://item.jd.com/5107667.html)，好看好用，配的汤锅质量不错
+* [美的（Midea）电炖锅](https://item.jd.com/4632936.html)，炖汤利器
 * [虎牌 JBA-S10C 电饭煲](https://item.jd.com/342345.html)，日本产，好用，慢煮和快煮都很赞
+* [虎牌（Tiger）保温杯轻量型男女水杯 MMP-A30C-K 深灰色 300ML](https://item.jd.com/3594868.html)，买完之后发现广州并不适合，只能装常温水
+* [虎牌（Tiger）保温杯真空轻便男女水杯 MMZ-A50C-TV 棕色 500ml](https://item.jd.com/3594866.html)，备用杯
 * [瑞士风博瑞客（BONECO）加湿器](https://item.jd.com/339259.html)，设计一流，体验一流，加湿效果一流
 * [镭豆 2+ Laser Egg 2+](https://item.jd.com/5775783.html)，空气质量检测仪
-* [小米（MI）路由器 PRO 2600M](https://item.jd.com/4502946.html)，备用路由器
-* [Apple 闪电转 3.5 毫米耳机插孔转换器](https://item.jd.com/3494453.html)，苹果果然是一家配件公司
-* [Apple AirPods 蓝牙无线耳机](https://item.jd.com/3563660.html)，这款耳机必须赞一个
 * [三星（SAMSUNG）存储卡 32GB  Class10](https://item.jd.com/4083889.html)，三星品牌信得过
-* [美的（Midea）电炖锅](https://item.jd.com/4632936.html)，炖汤利器
-* [Bose QuietComfort 35 无线耳机银色](https://item.jd.com/3599562.html)，唯一的缺点就是漏风
 * [松下（Panasonic）CR2032 进口纽扣电池](https://item.jd.com/887301.html)，吉他调音器必备
 * [美国网件（NETGEAR） R8500 AC5300M](https://item.jd.com/1956856.html)，秒杀极路由，电信 200M 跑满
-* [新科 (Shinco)OK-1 麦克风转接头 6.5 转 3.5](https://item.jd.com/1426291.html)，转接头
-* [绿联（UGREEN）麦克风转接头 6.5 转 3.5](https://item.jd.com/1591018.html)，又一品牌转接头
 * [森海塞尔（Sennheiser）HD 206 专业录音监听](https://item.jd.com/5049089.html)，配合电钢使用
 * [公牛（BULL）经典插座 GN-403 8 位总控全长 5 米](https://item.jd.com/16883098745.htm)，信赖大品牌
-* [Apple 60W MagSafe 2 电源适配器](https://item.jd.com/778365.html)，备用电源，放公司
 * [倍思（Baseus）车载手机支架](https://item.jd.com/5816707.html)，开车利器
-* [飞利浦（PHILIPS）鼻毛修剪器 全身水洗 NT1150/10](https://item.jd.com/1356221.html)，从此剪鼻毛的事情变得如此简单
-* [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
 * [九阳（Joyoung）豆浆机破壁免滤预约多功能家用 DJ13B-D86SG](https://item.jd.com/1629709.html)，给妈妈买的豆浆机
 * [IT-CEO 懒猫七色电脑扎线带](https://item.jd.com/1141455.html)，用过最好的理线器
 
@@ -407,8 +409,6 @@
 * [东湖五年陈酿老陈醋](https://item.jd.com/847304.html)，山西东湖出品
 * [狮王（Lion）细齿洁弹力护龈牙刷](https://item.jd.com/581199.html)，他家的牙刷用得舒服
 * [茶花粘钩挂钩贴平面五金强力型](https://item.jd.com/865209.html)，附着力较强
-* [虎牌（Tiger）保温杯轻量型男女水杯 MMP-A30C-K 深灰色 300ML](https://item.jd.com/3594868.html)，买完之后发现广州并不适合，只能装常温水
-* [虎牌（Tiger）保温杯真空轻便男女水杯 MMZ-A50C-TV 棕色 500ml](https://item.jd.com/3594866.html)，备用杯
 * [乐扣乐扣带蒸汽孔玻璃保鲜盒 LLG214T 500ml](https://item.jd.com/4555912.html)，大品牌，挺好用
 * [乐扣乐扣玻璃保鲜盒 LLG205 300ml](https://item.jd.com/3929951.html)，小号备用
 * [乐扣乐扣带蒸汽孔玻璃保鲜盒 LLG831T 650ml](https://item.jd.com/3929959.html)，便当盒全家桶
