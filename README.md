@@ -49,7 +49,8 @@
 * [西部数据（WD）My Passport 1TB 2.5 英寸 经典黑 移动硬盘 WDBYNN0010BBK](https://item.jd.com/3995560.html)，用作 Time Machine 备份
 * [西部数据（WD）My Passport 2TB 2.5 英寸 经典黑 移动硬盘 WDBYFT0020BBK](https://item.jd.com/3995554.html)，资料物理备份
 * [西部数据（WD） Elements 新元素系列 2.5 英寸 USB3.0 移动硬盘 1TB（WDBUZG0010BBK）](https://item.jd.com/896813.html)，资料物理备份
-* [BULL GN-U303U 迷你 USB 插座](https://item.jd.com/2601926.html)，再也不用担心没有带充电器，后面还买了一个扁平的型号，4 个 USB 接口，一个三线插座
+* [公牛（BULL）GN-U303U 迷你 USB 插座](https://item.jd.com/2601926.html)，再也不用担心没有带充电器，后面还买了一个扁平的型号，4 个 USB 接口，一个三线插座
+* [公牛（BULL）经典插座 GN-403 8 位总控全长 5 米](https://item.jd.com/16883098745.htm)，信赖大品牌
 * [HiWiFi HC5861 智能无线路由器](https://item.jd.com/1386706.html)，上一个路由器是极贰，这款极叁还算满意，这个价位，只能暂时将就了
 * [象印 1900ml 不锈钢真空保温瓶 SH-HA19C-XA](http://item.jd.com/1213366.html)，不用反复烧水
 * [莫哥斯 iPhone 7 自拍杆](http://item.jd.com/10078336529.html)，女朋友特别喜欢，果真自拍神器
@@ -74,7 +75,6 @@
 * [松下（Panasonic）CR2032 进口纽扣电池](https://item.jd.com/887301.html)，吉他调音器必备
 * [美国网件（NETGEAR） R8500 AC5300M](https://item.jd.com/1956856.html)，秒杀极路由，电信 200M 跑满
 * [森海塞尔（Sennheiser）HD 206 专业录音监听](https://item.jd.com/5049089.html)，配合电钢使用
-* [公牛（BULL）经典插座 GN-403 8 位总控全长 5 米](https://item.jd.com/16883098745.htm)，信赖大品牌
 * [UP AP-4S 手机支架](https://item.jd.com/2456954.html)，把手机立起来，酷酷的
 * [倍思（Baseus）车载手机支架](https://item.jd.com/5816707.html)，开车利器
 * [九阳（Joyoung）豆浆机破壁免滤预约多功能家用 DJ13B-D86SG](https://item.jd.com/1629709.html)，给妈妈买的豆浆机
