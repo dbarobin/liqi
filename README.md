@@ -10,7 +10,7 @@
 
 ## 硬件篇
 
-* [iPhone 5s](http://www.apple.com/cn/iphone)，2014 年光棍节给自己买的生日礼物，64G 银色顶配，现在依然是主力机
+* [iPhone 5s](http://www.apple.com/cn/iphone)，2014 年光棍节给自己买的生日礼物，64G 银色顶配，~~现在依然是主力机~~
 * [iPhone 7](http://www.apple.com/iphone-7)，256G 银色 4.7 寸顶配，用了一个星期，给亲人用了
 * [iPhone SE 128GB 玫瑰金色](https://www.apple.com/cn/iphone-se)，这颜色女朋友很喜欢
 * [iPhone SE 128GB 银色](https://www.apple.com/cn/iphone-se)，找回 5s 的感觉
