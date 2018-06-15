@@ -192,6 +192,9 @@
 * [SQLPro for MySQL](https://www.mysqlui.com)，¥68，简洁优雅的 MySQL 客户端
 * [SSH Shell](https://codinn.com/products/ssh-shell)，¥98，强大简洁的 SSH 客户端
 * [SSH Copy](https://codinn.com/products/ssh-copy)，¥98，简单的文件上传下载工具
+* [Paw](https://paw.cloud/purchase)，$49.99，一流的调试利器
+* [Dash](https://kapeli.com/dash)，¥170，帮助文档，开发必备
+* [Charles](https://www.charlesproxy.com)，$50，抓包必备
 
 #### 图像
 
