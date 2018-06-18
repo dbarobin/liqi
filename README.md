@@ -41,6 +41,7 @@
 * [Philips HD9333/21 电水壶](https://item.jd.com/1421970.html)，厚重的电水壶
 * [Philips HD9313/21 电水壶](https://item.jd.com/1284087.html)，电水壶需要备用
 * [Philips NT1150/10 鼻毛修剪器](https://item.jd.com/1356221.html)，从此剪鼻毛的事情变得如此简单
+* [Philips Hue 台灯](https://item.jd.com/4745964.html)，似太空飞船，又似蘑菇，灯光舒服，特别喜欢
 * [Kingston DT SE9H 8GB U 盘](https://item.jd.com/690347.html)，用了近 3 年的 U 盘，小巧，实用，颜值高
 * [Kingston DT100G3 64GB USB3.0 U盘](https://item.jd.com/854802.html)，挺商务范，容量够大
 * [Kingston DTSE9G2 16GB USB3.0 U盘](https://item.jd.com/1337254.html)，装系统专用 U 盘
@@ -443,6 +444,9 @@
 * [孟乍隆苏吝府茉莉香米](https://item.jd.com/2375223.html)，吃完 KOKO 吃孟乍隆，泰国香米果然名不虚传
 * [挂绿南方籼米油粘米](https://item.jd.com/4730514.html)，这款米还是可以的
 * [珍视明真丝睡眠遮光眼罩](https://item.jd.com/3837200.html)，很软很薄，高铁必备
+* [瑞士品牌 SPIRELLA 创意鹅卵石肥皂盒](https://item.jd.com/10027586602.html)，设计挺好
+* [日本极铁（RIVER LIGHT）30cm 高纯铁锅](https://item.jd.com/7576133.html)，好看好用
+* [珍珠生活可视玻璃锅盖 30cm](https://item.jd.com/4126740.html)，和铁锅搭配很好用
 
 ## 写在最后
 
