@@ -25,6 +25,7 @@
 * [Apple AirPods 蓝牙无线耳机](https://item.jd.com/3563660.html)，这款耳机必须赞一个
 * [Apple 60W MagSafe 2 电源适配器](https://item.jd.com/778365.html)，备用电源，放公司
 * [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
+* [Mophie 苹果无线充电器 7.5W 快充版](https://item.jd.com/6518073.html)，未来是无线的世界，无线充电体验就跟 AirPods 一样好
 * [TREZOR](https://trezor.io)，硬件钱包，外观略简陋
 * [KeepKey](https://www.keepkey.com)，硬件钱包，屏幕够大
 * [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s)，硬件钱包，设计不错
@@ -448,6 +449,7 @@
 * [瑞士品牌 SPIRELLA 创意鹅卵石肥皂盒](https://item.jd.com/10027586602.html)，设计挺好
 * [日本极铁（RIVER LIGHT）30cm 高纯铁锅](https://item.jd.com/7576133.html)，好看好用
 * [珍珠生活可视玻璃锅盖 30cm](https://item.jd.com/4126740.html)，和铁锅搭配很好用
+* [炊大皇 304 不锈钢锅铲](https://item.jd.com/2371770.html)，很有质感，而且防烫
 
 ## 写在最后
 
