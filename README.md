@@ -44,6 +44,7 @@
 * [Philips NT1150/10 鼻毛修剪器](https://item.jd.com/1356221.html)，从此剪鼻毛的事情变得如此简单
 * [Philips Hue 台灯](https://item.jd.com/4745964.html)，似太空飞船，又似蘑菇，灯光舒服，特别喜欢
 * [Philips Hue tap 桥接器](https://item.jd.com/12558197729.html)，终于可以调节 Hue 台灯亮度了，论生态的垄断性
+* [Philips 360° 全景行车记录仪 ADR920](https://item.jd.com/5678038.html)，开车必备，放扯皮利器
 * [Kingston DT SE9H 8GB U 盘](https://item.jd.com/690347.html)，用了近 3 年的 U 盘，小巧，实用，颜值高
 * [Kingston DT100G3 64GB USB3.0 U盘](https://item.jd.com/854802.html)，挺商务范，容量够大
 * [Kingston DTSE9G2 16GB USB3.0 U盘](https://item.jd.com/1337254.html)，装系统专用 U 盘
