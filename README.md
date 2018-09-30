@@ -87,6 +87,7 @@
 * [九阳（Joyoung）豆浆机破壁免滤预约多功能家用 DJ13B-D86SG](https://item.jd.com/1629709.html)，给妈妈买的豆浆机
 * [IT-CEO 懒猫七色电脑扎线带](https://item.jd.com/1141455.html)，用过最好的理线器
 * [先科（SAST）先科看戏机](https://item.jd.com/10080665411.html)，给妈妈买的，广场舞专用
+* [九阳（Joyoung）豆浆机 DJ10E-K61](https://item.jd.com/7464663.html)，早餐必备
 
 ## 软件篇
 
