@@ -77,7 +77,8 @@
 * [虎牌（Tiger）保温杯真空轻便男女水杯 MMZ-A50C-TV 棕色 500ml](https://item.jd.com/3594866.html)，备用杯
 * [瑞士风博瑞客（BONECO）加湿器](https://item.jd.com/339259.html)，设计一流，体验一流，加湿效果一流
 * [镭豆 2+ Laser Egg 2+](https://item.jd.com/5775783.html)，空气质量检测仪
-* [三星（SAMSUNG）存储卡 32GB  Class10](https://item.jd.com/4083889.html)，三星品牌信得过
+* [三星（SAMSUNG）存储卡 32GB Class10](https://item.jd.com/4083889.html)，三星品牌信得过
+* [三星（SAMSUNG）存储卡 128GB](https://item.jd.com/4083887.html)，行车记录仪使用
 * [松下（Panasonic）CR2032 进口纽扣电池](https://item.jd.com/887301.html)，吉他调音器必备
 * [美国网件（NETGEAR） R8500 AC5300M](https://item.jd.com/1956856.html)，秒杀极路由，电信 200M 跑满
 * [森海塞尔（Sennheiser）HD 206 专业录音监听](https://item.jd.com/5049089.html)，配合电钢使用
