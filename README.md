@@ -88,6 +88,7 @@
 * [IT-CEO 懒猫七色电脑扎线带](https://item.jd.com/1141455.html)，用过最好的理线器
 * [先科（SAST）先科看戏机](https://item.jd.com/10080665411.html)，给妈妈买的，广场舞专用
 * [九阳（Joyoung）豆浆机 DJ10E-K61](https://item.jd.com/7464663.html)，早餐必备
+* [荣耀 Play 全网通版 6GB+128GB 幻夜黑](https://item.jd.com/8799539.html)，给妈妈买的，华为手机进化太快，跟我认识的华为完全不一样
 
 ## 软件篇
 
