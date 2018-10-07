@@ -466,6 +466,7 @@
 * [康美雅干发帽](https://item.jd.com/3789276.html)，长发必备
 * [泰国进口口口（KOKO）泰国茉莉香米](https://item.jd.com/2375243.html)，味道确实不错
 * [妙洁保鲜袋大中小三合一组合超值装](https://item.jd.com/565663.html)，各种尺寸打包
+* [妙洁 抽绳垃圾袋点断式中号 加厚 54 只](https://item.jd.com/5749793.html)，自带封口绳
 * [欧润哲情侣漱口杯](https://item.jd.com/1762322.html)，304 不锈钢
 * [泰国进口水妈妈水磨糯米粉](https://item.jd.com/3206208.html)，味道不错，不过太少了
 * [生龙佬米酒](https://item.jd.com/2313197.html)，味道还是不错的
