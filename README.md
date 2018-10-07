@@ -90,6 +90,7 @@
 * [九阳（Joyoung）豆浆机 DJ10E-K61](https://item.jd.com/7464663.html)，早餐必备
 * [荣耀 Play 全网通版 6GB+128GB 幻夜黑](https://item.jd.com/8799539.html)，给妈妈买的，华为手机进化太快，跟我认识的华为完全不一样
 * [荣耀指环扣手机支架 AF16](https://item.jd.com/4964266.html)，比山寨货好
+* [KOLA 华为荣耀 Play 钢化膜](https://item.jd.com/7589184.html)，质量和设计都还不错
 
 ## 软件篇
 
