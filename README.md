@@ -194,6 +194,7 @@
 * [mpv](https://mpv.io)，免费，功能强大，喜欢 DIY 不妨一试
 * [网易云音乐](http://music.163.com/#/download)，免费，偶尔还是会用的
 * [Kap](https://getkap.co)，免费，录制屏幕
+* [Sound Studio](https://itunes.apple.com/us/app/sound-studio/id405537804?mt=12)，暂时买不起 Logic Pro X，这个工具属于小工具解决大问题之一类
 
 #### 开发辅助
 
