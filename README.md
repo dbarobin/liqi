@@ -375,6 +375,7 @@
 * [Video DownloadHelper](https://chrome.google.com/webstore/search/Video%20DownloadHelper)，自动发现网页视频并提供下载
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)，查看网站使用技术框架
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)，显示网页使用的字体
+* [為什麼你們就是不能加個空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)，自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白，强迫症专用
 * [违禁词检查](https://chrome.google.com/webstore/detail/%E8%BF%9D%E7%A6%81%E8%AF%8D%E6%A3%80%E6%9F%A5/hidcgccgkiamehonfofohinbaeefabmi)，检查商品描述中可能违反广告法，可能导致用户投诉的违禁词和高风险词，且支持图片文字识别
 
 ## 生活服务
