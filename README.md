@@ -350,31 +350,32 @@
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)，过滤烦人的广告，功能同 AdBlock
 * [Anything to QRcode](https://chrome.google.com/webstore/detail/anything-to-qrcode/calkaljlpglgogjfcidhlmmlgjnpmnmf)，网页内容生成为图片，分享给好友
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp)，自动加载网页下一页
+* [Bear Chrome extension](https://chrome.google.com/webstore/detail/bear-chrome-extension/bipgnccfcjnfnpnnllchfeillaekkofo)，一键将网页转化为 Markdown
 * [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)，Chrome 收取 Gmail
+* [Easy to RSS](https://chrome.google.com/webstore/detail/easy-to-rss/hbcmpkcpbnecinpngdnfbnknfkdpdfli)，检测网页是否支持 RSS，弥补 Reeder 部分网页无法识别的问题
 * [Enable Copy](https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio)，启用复制功能，特别针对不能复制的网页
 * [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)，印象笔记剪藏
 * [Fast Page Scroll](https://chrome.google.com/webstore/detail/fast-page-scroll/abbjgieefhoknlhpjjbbejhhjfgjeife)，快速滚动
+* [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)，图片批量下载工具
+* [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc)，下载多媒体文件工具
+* [Google Publisher Toolbar](https://chrome.google.com/webstore/detail/google-publisher-toolbar/omioeahgfecgfpfldejlnideemfidnkc)，Google 发布工具，配合 Google Adsense 和 Google Analytics 使用
 * ForceSSL，强制支持 HTTPS 的网站使用 HTTPS，加强安全性，Chrome Web Store 没有找到了，使用 [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) 代替吧
 * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)，不用点开图片就能放大
-* [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)，又一个好用的密码管理神器
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)，JSON 格式检查以及展示
+* [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke)，PGP 神器
 * [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)，文本框支持 Markdown 语法
 * [One Window](https://chrome.google.com/webstore/detail/one-window/papnlnnbddhckngcblfljaelgceffobn)，强制把所有的标签页都放在一个窗口中显示
+* [Scatter](https://chrome.google.com/webstore/detail/scatter/ammjpmhgckkpcamddpolhchgomcojkle)，EOS 浏览器插件钱包
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)，调试神器
-* [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)，翻墙必备
 * [Scroll To Top Button](https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj)，置顶滚动
 * [SimpleUndoClose](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj)，记录关闭的标签页，支持搜索
 * [Smartshot](https://chrome.google.com/webstore/detail/smartshot-screen-capture/edjbamdongkhmagbpppagfjbcojajeae)，智能网页截图
 * [Super Auto Refresh](https://chrome.google.com/webstore/detail/super-auto-refresh/kkhjakkgopekjlempoplnjclgedabddk)，设置网页自动刷新
-* [Tamper Chrome (extension)](https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb)，修改网页请求和响应
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)，世界上最受欢迎的用户脚本管理器
-* [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)，挂起特定时间未使用的网页
 * [Video DownloadHelper](https://chrome.google.com/webstore/search/Video%20DownloadHelper)，自动发现网页视频并提供下载
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)，查看网站使用技术框架
-* [word highlight](https://chrome.google.com/webstore/detail/word-highlight/ooabkmkhabkahcjbgpiajffckeibpdoa)，保持搜索关键词高亮
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)，显示网页使用的字体
-* [一起惠一键购物助手](https://chrome.google.com/webstore/detail/%E4%B8%80%E8%B5%B7%E6%83%A0%E4%B8%80%E9%94%AE%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/jjcbbdnfiapchhkemifphepfgilhdokf)，比价神器
-* [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb)，又一比价神器，网易出品
-* [為什麼你們就是不能加個空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)，自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白，强迫症专用
+* [违禁词检查](https://chrome.google.com/webstore/detail/%E8%BF%9D%E7%A6%81%E8%AF%8D%E6%A3%80%E6%9F%A5/hidcgccgkiamehonfofohinbaeefabmi)，检查商品描述中可能违反广告法，可能导致用户投诉的违禁词和高风险词，且支持图片文字识别
 
 ## 生活服务
 
