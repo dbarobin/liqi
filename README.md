@@ -212,6 +212,9 @@
 * [Paw](https://paw.cloud/purchase)，$49.99，一流的调试利器
 * [Dash](https://kapeli.com/dash)，¥170，帮助文档，开发必备
 * [Charles](https://www.charlesproxy.com)，$50，抓包必备
+* [Core Shell](https://coreshell.app)，购买 SSH Shell 免费 Upgrade，喜欢标签模式
+* [TablePlus](https://tableplus.io)，$49，目前体验最佳的数据库 GUI 工具，其他的全部弃用了
+* [Transmit](https://panic.com/transmit)，$45，之前用 SSH Copy，同类软件只需要最优秀的，花钱买到的教训
 
 #### 图像
 
