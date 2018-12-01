@@ -224,6 +224,7 @@
 * [Artpaper](https://itunes.apple.com/us/app/artpaper-art-paintings-as/id1028838684)，免费，壁纸切换工具，有逼格
 * [Irvue](https://itunes.apple.com/us/app/irvue-unsplash-wallpapers/id1039633667)，免费，桌面壁纸切换工具，Unsplash 出品
 * [Photolemur](https://photolemur.com)，¥50，强大的智能修图工具
+* [Pichi](https://pichiapp.com)，¥24.99，本地优化图片工具，包括压缩、修改尺寸等，压缩率跟在线的 TinyPNG 差不多，但不是所有的图片都放心上传到云端，即时 TinyPNG 如何强调隐私，原因你懂的
 
 #### 其他
 
