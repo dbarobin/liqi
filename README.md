@@ -347,6 +347,7 @@
 
 * SQLPro for MySQL Premium，¥3.99/Y，MySQL 客户端 iOS 版
 * Prompt 2，¥98，最好用的 iOS SSH 客户端
+* Navicat for MySQL，$13.99，MySQL 客户端，支持 SSH KEY
 
 ### Chrome 插件
 
