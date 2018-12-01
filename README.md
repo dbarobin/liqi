@@ -137,6 +137,7 @@
 * [Seil](https://github.com/tekezo/Seil)，免费，用于把右 Command 和 Caps Lock 键利用起来，减少快捷键冲突
 * [Magnet](http://magnet.crowdcafe.com)，¥6，窗口管理工具
 * [Keka](http://www.kekaosx.com/en)，¥12，用了这款压缩解压工具之后，其余的类似工具都卸载了
+* [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)，网络监控工具，我开启的是 Alert Mode，这款软件对跟踪恶意软件非常有帮助
 
 #### 效率
 
