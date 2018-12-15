@@ -183,7 +183,7 @@
 * [Byword](https://bywordapp.com)，¥73，吸引眼球的功能是支持 Dropbox
 * [Microsoft Office 365](https://www.office.com)，¥294/Y，Mac 付费版真心好用
 * [Day One Premium](http://dayoneapp.com/premium)，¥168/Y，一款软件能让我坚持付费坚持用这么多年，也是厉害
-* PDF Protector(https://itunes.apple.com/cn/app/pdf-protector/id566631581?mt=12)，¥40，现在降价了，¥18。PDF 快速加密、禁止复制，Mac App 居然 1.3M，喜欢这种轻量级 App
+* [PDF Protector](https://itunes.apple.com/cn/app/pdf-protector/id566631581?mt=12)，¥40，现在降价了，¥18。PDF 快速加密、禁止复制，Mac App 居然 1.3M，喜欢这种轻量级 App
 * [PDF Squeezer](https://itunes.apple.com/us/app/pdf-squeezer/id504700302?mt=12)，¥18，压缩 PDF 工具，和 PDF Protector 体验很像，压缩率也比较高
 
 #### 音视频
