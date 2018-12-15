@@ -196,6 +196,8 @@
 * [网易云音乐](http://music.163.com/#/download)，免费，偶尔还是会用的
 * [Kap](https://getkap.co)，免费，录制屏幕
 * [Sound Studio](https://itunes.apple.com/us/app/sound-studio/id405537804?mt=12)，暂时买不起 Logic Pro X，这个工具属于小工具解决大问题之一类
+* [Permute](https://software.charliemonroe.net/permute.php)，文件转换利器，其实命令行也可以做到，偶尔使用这个方便些
+* [Downie](https://software.charliemonroe.net/downie.php)，下载视频工具，可以和 Permute 结合使用
 
 #### 开发辅助
 
