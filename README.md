@@ -323,6 +323,7 @@
 * 落格输入法，¥1，尝试双拼
 * Bear Pro，¥103，优雅好用的 Markdown 编辑器，缺点是不支持 Dropbox 同步
 * Byword，¥40，Byword iOS 版
+* Reeder 4，¥30，RSS 阅读利器，升级也要全平台
 
 #### 生活
 
