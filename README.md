@@ -357,6 +357,10 @@
 * Navicat for MySQL，$13.99，MySQL 客户端，支持 SSH KEY
 * Thor & Anubis & Shu Bundle，$9.99，iOS 网络调试、开发工具包
 
+#### 财务
+
+* [XE Currency Converter Pro](https://itunes.apple.com/us/app/xe-currency-converter-pro/id598967192?mt=8)，国际中间汇率
+
 ### Chrome 插件
 
 * [1Password](https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk)，密码管理神器
