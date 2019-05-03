@@ -163,6 +163,7 @@
 * [iPic](https://toolinbox.net/iPic)，¥50，配合七牛云做图床
 * [Tweetbot 3 for Twitter](https://itunes.apple.com/us/app/tweetbot-3-for-twitter/id1384080005?mt=12)，¥68，最好用的 Twitter 客户端
 * [MindNode 5, Full App](https://mindnode.com)，¥258，简洁优雅的思维导图工具
+* [Reeder 4](http://reederapp.com/mac)，¥68，RSS 阅读利器，还是喜欢这种一次性买断制
 
 #### 写作
 
