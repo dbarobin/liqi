@@ -359,7 +359,7 @@
 
 #### 财务
 
-* [XE Currency Converter Pro](https://itunes.apple.com/us/app/xe-currency-converter-pro/id598967192?mt=8)，国际中间汇率
+* XE Currency Converter Pro，国际中间汇率
 
 ### Chrome 插件
 
