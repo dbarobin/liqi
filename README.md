@@ -106,6 +106,7 @@
 * [1Password](https://1password.com)，$35.88/年，当你拒绝的时候，就缺失学习和接受它的机会
 * [GitHub Developer](https://github.com/pricing)，$7/月，创建私有 repo，代码和文档知识库
 * [Medium Membership](https://medium.com/membership)，$50/年，为了阅读更多的文章，自然的成为了 Medium Member
+* [Feedly](https://feedly.com/i/pro/landing-pro)，RSS 阅读器
 
 ### macOS
 
