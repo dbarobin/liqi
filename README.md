@@ -169,6 +169,9 @@
 * [MindNode 5, Full App](https://mindnode.com)，¥258，简洁优雅的思维导图工具
 * [Reeder 4](http://reederapp.com/mac)，¥68，RSS 阅读利器，还是喜欢这种一次性买断制
 * [Folx](https://mac.eltima.com/download-manager.html)，$39.95，下载利器
+* [OmniFocus Pro 3](https://www.omnigroup.com/omnifocus)，$99.99，Todo 工具
+* [OmniOutliner Pro 5](https://www.omnigroup.com/omnioutliner)，$99.99，配合 OmniFocus 使用
+* [OmniGraffle Pro 7](https://www.omnigroup.com/omnigraffle)，$249.99，画图利器
 
 #### 写作
 
