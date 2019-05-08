@@ -241,7 +241,7 @@
 
 #### 安全
 
-* [GPG Suite](https://gpgtools.org/)，PGP 工具，参考文章 [隐私极客 Privacy Geek | 0x01 PGP](https://dbarobin.com/2019/05/02/privacy-geek-pgp/)
+* [GPG Suite](https://gpgtools.org/)，PGP 工具，参考文章 [隐私极客 Privacy Geek 0x01 PGP](https://dbarobin.com/2019/05/02/privacy-geek-pgp/)
 
 #### 其他
 
