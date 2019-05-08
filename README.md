@@ -239,6 +239,10 @@
 * [Pochade 2](https://itunes.apple.com/us/app/pochade-2/id1074208435?mt=12)，取色软件
 * [ColorSnapper 2](https://colorsnapper.com)，用过最好用的取色软件，特别喜欢取色后一键复制各种格式
 
+#### 安全
+
+* [GPG Suite](https://gpgtools.org/)，PGP 工具，参考文章 [隐私极客 Privacy Geek | 0x01 PGP](https://dbarobin.com/2019/05/02/privacy-geek-pgp/)
+
 #### 其他
 
 * [WeBack](http://www.fiosoftware.com/weback)，¥49，iPhone 微信导出工具
