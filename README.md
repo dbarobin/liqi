@@ -172,6 +172,7 @@
 * [OmniFocus Pro 3](https://www.omnigroup.com/omnifocus)，$99.99，Todo 工具
 * [OmniOutliner Pro 5](https://www.omnigroup.com/omnioutliner)，$99.99，配合 OmniFocus 使用
 * [OmniGraffle Pro 7](https://www.omnigroup.com/omnigraffle)，$249.99，画图利器
+* [iText](https://itunes.apple.com/cn/app/itext-ocr-%E8%AF%86%E5%88%AB-%E7%BF%BB%E8%AF%91%E5%9B%BE%E7%89%87%E4%B8%AD%E7%9A%84%E6%96%87%E5%AD%97/id1314980676?mt=12)，¥68/年，OCR 软件，非常好用
 
 #### 写作
 
