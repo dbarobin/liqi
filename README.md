@@ -180,7 +180,8 @@
 * [Day One for Mac](http://dayoneapp.com)，¥68，写日记专用，颜值高
 * [Day One 2 for Mac](http://dayoneapp.com)，¥128，Day One 升级，又花费一次
 * [PDF Expert](https://pdfexpert.com)，$0，Parallels 促销所得，PDF 阅读器
-* [MWeb](http://www.mweb.im)，¥50，半价获得，个人认为是国人所作最好的 Markdown 编辑器
+* [MWeb](https://www.mweb.im)，¥50，半价获得，个人认为是国人所作最好的 Markdown 编辑器
+* [MWeb 3](https://www.mweb.im)，¥68，版本升级，比 2 好看多了
 * [Ulysses](https://ulyssesapp.com)，¥283，Mac 上最好的 Markdown 编辑器，无论颜值还是功能
 * [Bear](http://www.bear-writer.com)，免费，高颜值 Markdown 编辑器，不过目前功能还不完善，暂不准备升级 Pro
 * [calibre](https://calibre-ebook.com/download_osx)，免费，电子书阅读软件
