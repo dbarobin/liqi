@@ -384,6 +384,7 @@
 * Prompt 2，¥98，最好用的 iOS SSH 客户端
 * Navicat for MySQL，$13.99，MySQL 客户端，支持 SSH KEY
 * Thor & Anubis & Shu Bundle，$9.99，iOS 网络调试、开发工具包
+* Network Toolbox - Net security，$6.99，网络工具
 
 #### 财务
 
