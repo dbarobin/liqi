@@ -38,7 +38,8 @@
 * [Apple USB-C / 雷霆 3 充电线 (1 米)](https://item.jd.com/100002755822.html)，买了电源适配器发现没带充电线，坑挺多的
 * [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
 * [一加手机 6T 8GB+256GB 墨岩黑 光感屏幕指纹 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/100001726202.html)，一加 6 掉了，哭，只好买个新品备用
-* [Mophie 苹果无线充电器 7.5W 快充版](https://item.jd.com/6518073.html)，未来是无线的世界，无线充电体验就跟 AirPods 一样好
+* [mophie 苹果无线充电器 7.5W 快充版](https://item.jd.com/6518073.html)，未来是无线的世界，无线充电体验就跟 AirPods 一样好
+* [mophie 双向快充移动电源 10000 毫安超薄轻巧便携充电宝](https://item.jd.com/46597386363.html)，新款，漂亮轻便
 * [TREZOR](https://trezor.io)，硬件钱包，外观略简陋
 * [KeepKey](https://www.keepkey.com)，硬件钱包，屏幕够大
 * [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s)，硬件钱包，设计不错
