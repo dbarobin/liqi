@@ -26,8 +26,8 @@
 * [iPhone 5/5s/SE 用 Power Support Air Jacket](https://www.apple.com/cn/shop/product/HB698ZM/A)，这款套子手感不错
 * [iPhone X 256GB 深空灰色](https://www.apple.com/cn/iphone-x)，主力机，依然是目前最好的手机
 * [iPhone X 硅胶保护壳 - 黑色](https://www.apple.com/cn/shop/product/MR522FE/A)，手感比较好，但戴上之后比较重
-* [Apple 2015 款 rMBP](http://www.apple.com/cn/macbook-pro)，2015 年初的 Retina MackBook Pro，13.3 寸银色中配，用了 Mac 才知道 PC 有多难用
-* [Apple 2018 款 rMBP](http://www.apple.com/cn/macbook-pro)，2018 年款顶配，什么叫顶配，也就是什么配置都选择最高就行了，为了效率利器真是烧钱
+* [Apple rMBP 2015 款](http://www.apple.com/cn/macbook-pro)，2015 年初的 Retina MackBook Pro，13.3 寸银色中配，用了 Mac 才知道 PC 有多难用
+* [Apple rMBP 2018 款](http://www.apple.com/cn/macbook-pro)，2018 年款顶配，什么叫顶配，也就是什么配置都选择最高就行了，为了效率利器真是烧钱
 * [Apple Magic Mouse 1](http://www.apple.com/cn/shop/product/MLA02CH/A/magic-mouse-2)，苹果鼠标，买了用了半年就出 2 了，1 代还要用电池，坑爹
 * [Apple Magic Mouse 2](https://item.jd.com/2187061.html)，第二代可以充电，终于解决了一代鼠标需要经常换电池的大难题
 * [Apple 闪电转 3.5 毫米耳机插孔转换器](https://item.jd.com/3494453.html)，苹果果然是一家配件公司
