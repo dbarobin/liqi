@@ -37,6 +37,7 @@
 * [Apple 87W USB-C 电源适配器 / 充电器](https://item.jd.com/100002755780.html)，备用电源，减轻通勤负担
 * [Apple USB-C / 雷霆 3 充电线 (1 米)](https://item.jd.com/100002755822.html)，买了电源适配器发现没带充电线，坑挺多的
 * [Apple iPad 平板电脑 2018 年新款 9.7 英寸](https://item.jd.com/6806436.html)，128G WLAN + Cellular 版 / A10 芯片 / Retina 屏 MR732CH/A 银色，这个配置目前的阶段性价比超高，一般用途不推荐买 iPad Pro
+* [Apple Pencil 手写笔 MK0C2CH](https://item.jd.com/2147347.html)，1 代 Pencil
 * [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
 * [一加手机 6T 8GB+256GB 墨岩黑 光感屏幕指纹 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/100001726202.html)，一加 6 掉了，哭，只好买个新品备用
 * [mophie 苹果无线充电器 7.5W 快充版](https://item.jd.com/6518073.html)，未来是无线的世界，无线充电体验就跟 AirPods 一样好
