@@ -76,6 +76,7 @@
 * [绿联（UGREEN）USB3.0 有线千兆网卡 USB 转 RJ45 网线接口](https://item.jd.com/1215055.html)，解决 Mac 没有有线网卡的痛
 * [绿联（UGREEN）Mini DP 转 VGA 转换器](http://item.jd.com/1177817.html)，Mac 接投影仪专用
 * [绿联（UGREEN）麦克风转接头 6.5 转 3.5](https://item.jd.com/1591018.html)，又一品牌转接头
+* [绿联（UGREEN）手机懒人支架](https://item.jd.com/5682927.html)，下雨天专用
 * [新科 (Shinco)OK-1 麦克风转接头 6.5 转 3.5](https://item.jd.com/1426291.html)，转接头
 * [加能苹果充电线](https://item.jd.com/10380811703.html)，苹果 MFI 认证，接近原装
 * [中国地图挂图+世界地图挂图](https://item.jd.com/11663917.html)，挂在客厅有一种天下尽在眼前的错觉
