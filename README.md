@@ -34,6 +34,7 @@
 * [Apple AirPods 蓝牙无线耳机](https://item.jd.com/3563660.html)，这款耳机必须赞一个
 * [Apple 60W MagSafe 2 电源适配器](https://item.jd.com/778365.html)，备用电源，放公司
 * [Apple USB-C 转 HDMI 数字影音多端口转换器](https://item.jd.com/1693388.html)，看了一圈，还是选择原厂的，轻量，简洁，质量稳定
+* [Apple 87W USB-C 电源适配器 / 充电器](https://item.jd.com/100002755780.html)，备用电源，减轻通勤负担
 * [一加手机 6 8GB+128GB 亮瓷黑 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/7357933.html)，备用机，这品控做得还不错
 * [一加手机 6T 8GB+256GB 墨岩黑 光感屏幕指纹 全面屏双摄游戏手机 全网通 4G 双卡双待](https://item.jd.com/100001726202.html)，一加 6 掉了，哭，只好买个新品备用
 * [Mophie 苹果无线充电器 7.5W 快充版](https://item.jd.com/6518073.html)，未来是无线的世界，无线充电体验就跟 AirPods 一样好
