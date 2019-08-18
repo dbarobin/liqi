@@ -90,6 +90,7 @@
 * [美的（Midea）电磁炉 C21-WH2128](https://item.jd.com/5107667.html)，好看好用，配的汤锅质量不错
 * [美的（Midea）电炖锅](https://item.jd.com/4632936.html)，炖汤利器
 * [美的（Midea）电饭煲 MB-40EASY202](https://item.jd.com/5555972.html)，备用
+* [美的（Midea）冷电风扇 AAC12AR](https://item.jd.com/100003338878.html)，常温风、冷风、加湿
 * [虎牌 JBA-S10C 电饭煲](https://item.jd.com/342345.html)，日本产，好用，慢煮和快煮都很赞
 * [虎牌（Tiger）保温杯轻量型男女水杯 MMP-A30C-K 深灰色 300ML](https://item.jd.com/3594868.html)，买完之后发现广州并不适合，只能装常温水
 * [虎牌（Tiger）保温杯真空轻便男女水杯 MMZ-A50C-TV 棕色 500ml](https://item.jd.com/3594866.html)，备用杯
