@@ -257,6 +257,7 @@
 * [Pichi](https://pichiapp.com)，¥24.99，本地优化图片工具，包括压缩、修改尺寸等，压缩率跟在线的 TinyPNG 差不多，但不是所有的图片都放心上传到云端，即时 TinyPNG 如何强调隐私，原因你懂的
 * [Pochade 2](https://itunes.apple.com/us/app/pochade-2/id1074208435?mt=12)，取色软件
 * [ColorSnapper 2](https://colorsnapper.com)，用过最好用的取色软件，特别喜欢取色后一键复制各种格式
+* [Redacted](https://apps.apple.com/us/app/redacted/id984968384?mt=12)，¥45.00，专业打码小工具
 
 #### 安全
 
