@@ -557,6 +557,8 @@
 * [得力 (deli) 10m 全包胶自锁钢卷尺](https://item.jd.com/3973364.html)，家里需要备一把卷尺
 * [华恺之星粘贴墙壁挂试衣镜](https://item.jd.com/100003060121.html)，挺实用的
 * [亿家达多层简易鞋柜](https://item.jd.com/46327591207.html)，安装便捷
+* [吉米家居 JM-G1601C 家用钉子套装](https://item.jd.com/5947440.html)，家用
+* [得力 (deli) 钢管柄羊角锤](https://item.jd.com/100002762886.html)，家用
 
 ## 写在最后
 
